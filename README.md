@@ -45,7 +45,7 @@
             это порт по умолчанию для PostgreSQL.
   SECRET_KEY — секретный ключ для вашего проекта Django
   ALLOWED_HOSTS — доменные имена и ip-адреса, по которым будет доступен проект.
-                  Пример: ALLOWED_HOSTS=127.0.0.1 localhost server_ip domain_name
+                  **Пример: ALLOWED_HOSTS=127.0.0.1,localhost,server_ip,domain_name**
   DEBUG - False, если хотите запустить сервис в контейнерах! True, если просто хотите 
             запустить API без фронтенда!
 
