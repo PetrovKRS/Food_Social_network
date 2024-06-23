@@ -1,0 +1,40 @@
+# PostgreSQL
+DB_HOST=db
+DB_PORT=5432
+
+POSTGRES_DB=qwerty
+POSTGRES_USER=qwerty
+POSTGRES_PASSWORD=qwerty
+DB_NAME=foodgram
+
+# settings.py
+ALLOWED_HOSTS=127.0.0.1,localhost,qwerty.ru
+SECRET_KEY=qwerty_secret_key
+
+# Email config (Пример для mail.ru)
+EMAIL_HOST=smtp.mail.ru
+EMAIL_HOST_USER=your_mail@mail.ru
+EMAIL_HOST_PASSWORD=qwerty
+EMAIL_PORT=465
+EMAIL_USE_SSL=False
+
+# DEBUG
+DEBUG=False
+
+# POSTGRES_USER — имя пользователя БД (необязательная переменная,
+#                 значение по умолчанию — postgres);
+# POSTGRES_PASSWORD — пароль пользователя БД (обязательная переменная
+#                     для создания БД в контейнере);
+# POSTGRES_DB — название базы данных (необязательная переменная, по
+#               умолчанию совпадает с POSTGRES_USER).
+# Таким образом, можно передать в окружение только переменную POSTGRES_PASSWORD —
+# и будет создана БД с названием postgres и пользователем postgres
+
+# DB_HOST — адрес, по которому Django будет соединяться с базой данных.
+#           При работе нескольких контейнеров в сети Docker network вместо
+#           адреса указывают имя контейнера, где запущен сервер БД, — в нашем
+#           случае это контейнер db.
+# DB_PORT — порт, по которому Django будет обращаться к базе данных. 5432 —
+#           это порт по умолчанию для PostgreSQL.name
+
+# DEBUG - вкл/выкл режим отладки Django
