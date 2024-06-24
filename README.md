@@ -139,7 +139,7 @@
 
 - Cклонируйте репозиторий в рабочую папку:
   ```
-  git clone git@github.com:PetrovKRS/notebook_project.git
+  git clone git@github.com:PetrovKRS/Food_Social_network.git
   ```
 - В папку infra проекта поместите файл .env с переменными окружения:
 
