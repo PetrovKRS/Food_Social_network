@@ -219,8 +219,6 @@
 * ```/api/users/subscriptions/``` GET-запрос – получение списка всех пользователей, на которых подписан текущий пользователь Доступно для авторизированных пользователей.
 
 ***
-Стек технологий: |*| Python |*| Django |*| DRF |*| Djoser |*| GitHub Actions |*| docker compose |*| PostgreSQL |*| nginx |*| gunicorn |*|
-***
 
 ### <b> Стек технологий: </b>
 
@@ -234,6 +232,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-df?style=for-the-badge&logo=PostgreSQL&labelColor=darkgreen&color=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=for-the-badge&logo=GitHubActions&labelColor=black&color=blue)
-
+***
 ### Автор проекта: 
 [![GitHub](https://img.shields.io/badge/-Андрей_Петров-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)](https://t.me/Petrov_KRS)
+***
