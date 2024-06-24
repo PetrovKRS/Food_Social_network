@@ -222,4 +222,18 @@
 Стек технологий: |*| Python |*| Django |*| DRF |*| Djoser |*| GitHub Actions |*| docker compose |*| PostgreSQL |*| nginx |*| gunicorn |*|
 ***
 
-> #### Автор проекта: **[Андрей Петров](https://github.com/PetrovKRS)** 
+### <b> Стек технологий: </b>
+
+![Python](https://img.shields.io/badge/-Python_3.9-df?style=for-the-badge&logo=Python&labelColor=yellow&color=blue)
+![Django](https://img.shields.io/badge/-Django-df?style=for-the-badge&logo=Django&labelColor=darkgreen&color=blue)
+![REST](https://img.shields.io/badge/-REST-df?style=for-the-badge&logo=Django&labelColor=darkgreen&color=blue)
+![Postman](https://img.shields.io/badge/-Postman-df?style=for-the-badge&logo=Postman&labelColor=black&color=blue)
+![DOCKER](https://img.shields.io/badge/-DOCKER-df?style=for-the-badge&logo=DOCKER&labelColor=lightblue&color=blue)
+![NGINX](https://img.shields.io/badge/-Nginx-df?style=for-the-badge&logo=NGINX&labelColor=green&color=blue)
+![GUNICORN](https://img.shields.io/badge/-Gunicorn-df?style=for-the-badge&logo=Gunicorn&labelColor=lightgreen&color=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-df?style=for-the-badge&logo=PostgreSQL&labelColor=darkgreen&color=blue)
+![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=for-the-badge&logo=GitHubActions&labelColor=black&color=blue)
+
+### Автор проекта: 
+[![GitHub](https://img.shields.io/badge/-Андрей_Петров-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)](https://t.me/Petrov_KRS)
