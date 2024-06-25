@@ -131,3 +131,9 @@ dmypy.json
 
 # .idea
 .idea
+
+# folders with static & media
+static/
+backend_static/
+media/
+backend_media/
